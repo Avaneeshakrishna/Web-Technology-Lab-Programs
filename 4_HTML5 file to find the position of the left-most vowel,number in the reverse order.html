@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script type="text/javascript">
+var str=prompt("Enter the input","");
+if(!(isNaN(str)))
+{
+var n,rev=0,rem;
+n=parseInt(str);
+while(n!=0){
+rem=n%10;
+n=parseInt(n/10);
+rev=rev*10+rem;
+}
+alert("Reverse of "+str+" is: "+rev);
+}
+else
+{
+var i=str.search(/[aeiou]/i);
+if(i>=0)
+alert("The position of the left most vowel is "+(i+1));
+else
+alert("No vowel found in the entered string");
+}
+</script>
+</body>
+</html>

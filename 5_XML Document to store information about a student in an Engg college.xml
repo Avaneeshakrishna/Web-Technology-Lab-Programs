@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="5.css"?>
+<vcet>
+<student>
+<usn>4VP08CS001</usn>
+<name>Abhishek</name>
+<college>V.C.E.T</college>
+<branch>CSE</branch>
+<yoj>2008</yoj>
+<email>abhishek_01@gmail.com</email>
+</student>
+<student>
+<usn>4VP09CS002</usn>
+<name>Adarsh</name>
+<college>V.C.E.T</college>
+<branch>CSE</branch>
+<yoj>2009</yoj>
+<email>adarsh_007@gmail.com</email>
+</student>
+<student>
+<usn>4VP16CS00</usn>
+<name>Akash</name>
+<college>V.C.E.T</college>
+<branch>CSE</branch>
+<yoj>2016</yoj>
+<email>akash_bb@gmail.com</email>
+</student>
+</vcet>
